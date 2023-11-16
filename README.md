@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasan Dilikshana</h1>
-<h3 align="center">Web Developer | Undergraduate | BICT | University of Colombo</h3>
+<h3 align="center">Software Developer | Undergraduate | BICT | University of Colombo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasandilikshana&label=Profile%20views&color=0e75b6&style=flat" alt="rasandilikshana" /> </p>
 
