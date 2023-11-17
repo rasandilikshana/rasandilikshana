@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasandilikshana&label=Profile%20views&color=0e75b6&style=flat" alt="rasandilikshana" /> </p>
 
-- 🔭 I’m currently working on [Ceyloneze](https://ceyloneze.com/)
+- 🔭 I’m currently working on [Zuse Technologies](https://zuse.lk/)
 
 - 🌱 I’m currently learning **React, Laravel, Java**
 
