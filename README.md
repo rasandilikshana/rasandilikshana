@@ -22,6 +22,7 @@
 <a href="https://instagram.com/dilikshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilikshana" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@Beautelligence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beautelligence" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rasandilikshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rasandilikshana" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/rasandilikshana" target="blank"><img align="center" <img src="https://tryhackme-badges.s3.amazonaws.com/rasandilikshana.png" alt="rasandilikshana" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
