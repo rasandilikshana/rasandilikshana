@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasan-dilikshana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://rasandilikshana.com)
+[![Portfolio](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/rasandilikshana)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasandilikshana)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasandilikshana@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16494276/rasan-dilikshana)
@@ -115,8 +115,8 @@ Conversion-focused e-commerce platform for premium supplements with custom SEO f
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasandilikshana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasandilikshana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rasandilikshana&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasandilikshana&theme=tokyonight" height="180em"/>
 
 <br/>
 
@@ -136,7 +136,7 @@ Conversion-focused e-commerce platform for premium supplements with custom SEO f
 
 [![Email](https://img.shields.io/badge/rasandilikshana@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasandilikshana@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/rasan--dilikshana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasan-dilikshana)
-[![Portfolio](https://img.shields.io/badge/rasandilikshana.com-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://rasandilikshana.com)
+[![Linktree](https://img.shields.io/badge/linktr.ee%2Frasandilikshana-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/rasandilikshana)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
