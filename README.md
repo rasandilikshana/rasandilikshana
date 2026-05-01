@@ -68,66 +68,6 @@ open_to: Collaborations, Open Source, Research Projects
 
 ---
 
-## 🏢 Professional Journey
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔷 Software Engineer
-**Zuse Technologies | Lyceum Global Holdings**
-`Aug 2025 – Present` · Nugegoda, Sri Lanka
-
-- 🏗️ **Recruiterz ATS** — Engineered core Laravel backend with decoupled microservices for resume parsing, ATS scoring & job matching
-- 🤖 **WhatsApp AI Agent** — Automated candidate screening integrated with Bitrix24, Telegram & Gmail APIs
-- 🔐 **Central Auth IAM Hub** — Architected multi-tenant IAM with Azure AD ↔ Keycloak sync via Python engine
-- 🛡️ **Keycloak Engineering** — Custom themes, OIDC federation, brute-force detection & auth flows
-- ⚙️ **CI/CD & GitOps** — GitHub Actions + ArgoCD pipelines; Prometheus + Grafana observability
-- 🐳 **Multi-Arch Builds** — AMD64/ARM64 Docker images via Docker Buildx
-
-</td>
-<td width="50%">
-
-### 🔶 Associate Software Engineer
-**Zuse Technologies | Lyceum Global Holdings**
-`Jan 2024 – Aug 2025` · Nugegoda, Sri Lanka
-
-- ☁️ **Cloud Backup Frontend** — Next.js app secured with Keycloak OIDC
-- 💼 **Zuse Careers Portal** — Reduced 3rd-party recruitment costs by **50%** via Laravel + AWS S3 + SEO automation
-- 📱 **Student Info System API** — Laravel REST API powering Flutter mobile app
-- 🔗 **Bitrix24 Integration** — Automated **85%** of manual data entry for NCG Green Energy
-- 📈 **SEO Engineering** — Boosted search rankings by **50–80%** across multiple production sites
-
-### 🔸 Software Engineer Intern
-**Zuse Technologies** · `Jul 2023 – Jan 2024`
-- ERP system managing **12,000+** products — cut processing time by **60%**
-- Boosted organic traffic by **80%** via technical SEO
-
-### 🔹 Trainee Web Developer
-**Ministry of Defence, Sri Lanka** · `Jan 2023 – Jun 2023`
-- Migrant Workers Safety Assurance System — ASP.NET + SQL Server
-</td>
-</tr>
-</table>
-
----
-
-## 🔐 IAM & Security Expertise
-
-<div align="center">
-
-| Domain | Technologies |
-|--------|-------------|
-| Identity Provider | Keycloak (Realm, Client, Theme, Flow Engineering) |
-| Federation | Azure Active Directory OIDC, Group-to-Role Claim Mapping |
-| Protocols | OAuth2, OpenID Connect, JWT, SAML |
-| Security Policies | Brute-Force Detection, Password Policies, Session Monitoring |
-| Architecture | Zero Trust, Multi-Tenant IAM, Custom Auth Flows |
-
-</div>
-
----
-
 ## 🛠️ Notable Projects
 
 <table>
@@ -175,31 +115,16 @@ Conversion-focused e-commerce platform for premium supplements with custom SEO f
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasandilikshana&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C6FF7&icon_color=7C6FF7&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasandilikshana&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C6FF7&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasandilikshana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasandilikshana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rasandilikshana&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7C6FF7&ring=7C6FF7&fire=FF6B6B&currStreakLabel=7C6FF7" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=rasandilikshana&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rasandilikshana&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-
-</div>
-
----
-
-## 🎓 Education & Affiliations
-
-<div align="center">
-
-| | |
-|---|---|
-| 🎓 **B.ICT (Hons)** — University of Colombo | Second Class Honours · GPA 3.27 · 2025 |
-| 💼 **Treasurer** — Alumni Association, Faculty of Technology | Oct 2025 – Present |
-| 👑 **President** — Welfare Society, Faculty of Technology | Jan 2023 – Apr 2024 |
-| 📸 **Member** — National Photographic Art Society (NPAS) | Jan 2023 – Present |
+<img src="https://github-profile-trophy.vercel.app/?username=rasandilikshana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 
 </div>
 
