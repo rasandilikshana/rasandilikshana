@@ -115,8 +115,8 @@ Conversion-focused e-commerce platform for premium supplements with custom SEO f
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rasandilikshana&theme=tokyonight" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasandilikshana&theme=tokyonight" height="180em"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasandilikshana&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasandilikshana&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8&exclude_repo=rasandilikshana.github.io"/>
 
 <br/>
 
